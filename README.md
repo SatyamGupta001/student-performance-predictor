@@ -7,7 +7,6 @@ A simple, interactive **machine learning web app** built using **Streamlit** to 
 ## 🚀 Demo
 
 👉 **Live App:** [Click to Open](https://student-performance-predictor-svgv8tttp3tmj4n8qk6hqz.streamlit.app/)  
-*(Replace with your deployed Streamlit link)*
 
 ---
 
